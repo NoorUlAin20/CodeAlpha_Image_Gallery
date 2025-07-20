@@ -34,7 +34,7 @@ project/
 ## 🚀 **How to Run**
 
 1. Clone this repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/NoorUlAin20/CodeAlpha_Image_Gallery.git
 
 css
 Copy
