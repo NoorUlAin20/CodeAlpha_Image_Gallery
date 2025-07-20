@@ -67,10 +67,4 @@ cd your-repo-name
 
 Made with ❤ by **[Noor UlAin]**
 ---
-
-## 📸 **Demo**
-
-> ![Portfolio Image Gallery Screenshot](images/nature/nature1.jpg)
-
----
 only for study purpose
