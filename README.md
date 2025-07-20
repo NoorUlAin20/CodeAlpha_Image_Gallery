@@ -35,14 +35,8 @@ project/
 
 1. Clone this repository:
 git clone https://github.com/NoorUlAin20/CodeAlpha_Image_Gallery.git
-
-css
-Copy
-Edit
-
 2. Navigate to the project folder:
 cd your-repo-name
-
 3. Open **index.html** in your browser to view the gallery.
 
 ---
